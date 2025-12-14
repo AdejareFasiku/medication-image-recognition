@@ -1,1 +1,24 @@
-# For Python Version 3.9
+# Numerical & Data Handling
+numpy
+pandas
+scikit-learn
+joblib
+
+# Deep Learning
+torch
+torchvision
+transformers
+
+# Image Processing
+Pillow
+opencv-python
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+
+# Optional (recommended for speed if available)
+faiss-cpu
